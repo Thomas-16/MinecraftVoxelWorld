@@ -6,7 +6,7 @@ public class ChunkData
 {
     public BlockType[] blocks;
     public int chunkSize = 16;
-    public int chunkHeight = 100;
+    public int chunkHeight = 128;
     public World world;
     public Vector3Int worldPosition;
 
